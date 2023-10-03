@@ -206,7 +206,7 @@ const styles = StyleSheet.create({
 
   titulo: {
     marginTop: 8,
-    marginBottom: 8,
+    marginBottom: 16,
     fontSize: 22,
     fontFamily: 'NovaMono_400Regular',
     paddingTop: 10,
