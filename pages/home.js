@@ -136,7 +136,7 @@ const styles = StyleSheet.create({
 
   titulo: {
     marginTop: 8,
-    marginBottom: 8,
+    marginBottom: 10,
     fontSize: 15,
     paddingTop: 10,
     color: 'Black',
