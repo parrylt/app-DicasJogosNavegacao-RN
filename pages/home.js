@@ -156,7 +156,7 @@ const styles = StyleSheet.create({
   },
 
   containerDropdown: {
-    width: 250,
+    width: 285,
     height: 50,
     justifyContent: 'center',
     alignItems: 'center',
