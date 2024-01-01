@@ -24,3 +24,5 @@ Um app feito para atividade na época em que a sala aprendeu navegação. Jogos 
   <h3>Página falando de alguns jogos sandbox</h3>
   <img src="ImagensDoApp/9.png"> <img src="ImagensDoApp/10.png">
 </div>
+<br>
+Aqui o link do snack: https://snack.expo.dev/@romulojr/appgamesnavegacao
